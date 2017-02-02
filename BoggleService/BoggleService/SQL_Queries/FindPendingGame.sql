@@ -1,0 +1,1 @@
+﻿select * from Games where Player2 is NULL AND Player1 != '3b744454-2c1f-4e61-bf25-7b23efa14ca8'

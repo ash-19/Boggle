@@ -1,0 +1,1 @@
+﻿select Nickname from Users where UserID = '0aeb3e5e-6760-40e2-a365-7639e7dbcfb2'

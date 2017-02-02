@@ -1,0 +1,1 @@
+﻿insert into Words (Word, GameID, Player, Score) values('LIKE',1,'0aeb3e5e-6760-40e2-a365-7639e7dbcfb2', 1)

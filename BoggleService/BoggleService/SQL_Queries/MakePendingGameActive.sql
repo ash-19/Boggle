@@ -1,0 +1,1 @@
+﻿update Games set Player2 = '3b744454-2c1f-4e61-bf25-7b23efa14ca8', TimeLimit = (Games.TimeLimit + 10)/2, Board = 'ABCDEFGHIJKLMNOP', StartTime = 0 where GameID = 2

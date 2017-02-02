@@ -1,0 +1,1 @@
+﻿select * from Games where Games.GameID = 1

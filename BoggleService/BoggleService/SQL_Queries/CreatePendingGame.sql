@@ -1,0 +1,1 @@
+﻿insert into Games (Player1, TimeLimit) output inserted.GameID values('29f3ac13-7da2-495a-88dc-6531ad03c6eb', 19)
